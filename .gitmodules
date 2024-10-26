@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/alfathrajif/money-management-app-client.git
+[submodule "server"]
+	path = server
+	url = https://github.com/alfathrajif/money-management-app-server.git
