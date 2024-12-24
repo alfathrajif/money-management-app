@@ -5,6 +5,7 @@ This is a full-stack Money Management application designed to track income and e
 <p align="center">
   <img src="https://raw.githubusercontent.com/alfathrajif/money-management-app/refs/heads/main/docs/Expense-Tracker-12-25-2024_02_17_AM.png" width="500" height="auto" />
 </p>
+
 ## Features
 
 - **Income & Expense Tracking**: Add, edit, and delete financial transactions with details like amount, category, and date.
