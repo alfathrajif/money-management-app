@@ -2,7 +2,7 @@
 
 This is a full-stack Money Management application designed to track income and expenses. Built with **Next.js** on the [client-side](https://github.com/alfathrajif/money-management-app-client/tree/c4427e5c8b1fadcd5ca6209ffd174f8ed4ab0c2e) and **NestJS** on the [server-side](https://github.com/alfathrajif/money-management-app-server/tree/cfe13660054d5df5af927ec6fe871dd19f623b9e), the app provides a seamless experience for managing personal finances.
 
-![My Image](./doc/Expense-Tracker-12-25-2024_02_17_AM.png)
+![My Image](https://raw.githubusercontent.com/alfathrajif/money-management-app/refs/heads/main/docs/Expense-Tracker-12-25-2024_02_17_AM.png)
 
 ## Features
 
