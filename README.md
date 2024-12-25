@@ -70,12 +70,11 @@ PORT=5000
 
 Ensure to replace `<username>`, `<password>`, `<host>`, `<port>`, `<database>`, and `<JWT_SECRET>` with your actual MySQL credentials and JWT secret key.
 
-### Install Dependencies
-
 #### Frontend
 
 ```bash
-cd client
+cd client # Make sure it's in the client folder
+
 npm install
 # or
 yarn install
@@ -84,7 +83,8 @@ yarn install
 #### Backend
 
 ```bash
-cd .../server
+cd server # Make sure it's in the server folder
+
 npm install
 # or
 yarn install
